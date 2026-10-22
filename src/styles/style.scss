@@ -1,0 +1,15 @@
+@use 'additinal/font';
+@use 'additinal/media';
+@use 'additinal/vars.scss' as color;
+
+
+
+body {
+ margin: 0;
+  padding: 0;
+  border: 0;
+  box-sizing: border-box;
+  color: color.$red3;
+
+}
+ 
